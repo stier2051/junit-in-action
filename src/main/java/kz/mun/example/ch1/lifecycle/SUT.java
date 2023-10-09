@@ -1,4 +1,4 @@
-package kz.mun.example.lifecycle;
+package kz.mun.example.ch1.lifecycle;
 
 public class SUT {
     private String systemName;

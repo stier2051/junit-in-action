@@ -1,5 +1,6 @@
 package kz.mun.example.displayname;
 
+import kz.mun.example.ch1.displayname.SUT;
 import org.junit.jupiter.api.DisplayName;
 import org.junit.jupiter.api.Test;
 
