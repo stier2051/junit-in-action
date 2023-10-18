@@ -1,4 +1,4 @@
-package kz.mun.example.ch1.hamcrest;
+package kz.mun.example.ch2.hamcrest;
 
 public class Customer {
     private String firstName;

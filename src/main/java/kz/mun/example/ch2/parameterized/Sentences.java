@@ -1,4 +1,4 @@
-package kz.mun.example.ch1.parameterized;
+package kz.mun.example.ch2.parameterized;
 
 public enum Sentences {
     JUNIT_IN_ACTION("JUnit in Action"),

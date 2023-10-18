@@ -1,4 +1,4 @@
-package kz.mun.example.ch1.assumptions;
+package kz.mun.example.ch2.assumptions;
 
 public class SUT {
     private Job currentJob;

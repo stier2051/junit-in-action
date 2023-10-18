@@ -1,7 +1,6 @@
 package kz.mun.example.assertions;
 
-import kz.mun.example.ch1.assertions.Job;
-import kz.mun.example.ch1.assertions.SUT;
+import kz.mun.example.ch2.assertions.SUT;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.DisplayName;
 import org.junit.jupiter.api.Test;

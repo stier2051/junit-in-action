@@ -1,4 +1,4 @@
-package kz.mun.example.ch1.assumptions.environment;
+package kz.mun.example.ch2.assumptions.environment;
 
 public class OperationSystem {
     private String name;

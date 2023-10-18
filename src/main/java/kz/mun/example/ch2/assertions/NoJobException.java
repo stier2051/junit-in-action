@@ -1,4 +1,4 @@
-package kz.mun.example.ch1.assertions;
+package kz.mun.example.ch2.assertions;
 
 public class NoJobException extends RuntimeException {
     NoJobException(String message) {
