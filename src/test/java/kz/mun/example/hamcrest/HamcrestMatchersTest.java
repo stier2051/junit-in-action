@@ -1,6 +1,6 @@
 package kz.mun.example.hamcrest;
 
-import kz.mun.example.ch1.hamcrest.Customer;
+import kz.mun.example.ch2.hamcrest.Customer;
 import org.junit.jupiter.api.DisplayName;
 import org.junit.jupiter.api.Test;
 

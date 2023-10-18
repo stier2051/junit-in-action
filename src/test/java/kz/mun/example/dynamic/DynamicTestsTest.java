@@ -1,6 +1,6 @@
 package kz.mun.example.dynamic;
 
-import kz.mun.example.ch1.dynamic.PositiveNumberPredicate;
+import kz.mun.example.ch2.dynamic.PositiveNumberPredicate;
 import org.junit.jupiter.api.*;
 
 import java.util.Iterator;

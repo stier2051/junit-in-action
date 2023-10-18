@@ -1,6 +1,6 @@
 package kz.mun.example.parameterized;
 
-import kz.mun.example.ch1.parameterized.WordCounter;
+import kz.mun.example.ch2.parameterized.WordCounter;
 import org.junit.jupiter.params.ParameterizedTest;
 import org.junit.jupiter.params.provider.CsvSource;
 

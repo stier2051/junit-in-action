@@ -1,4 +1,4 @@
-package kz.mun.example.ch1.parameterized;
+package kz.mun.example.ch2.parameterized;
 
 public class WordCounter {
     public int countWords(String sentence) {

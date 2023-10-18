@@ -1,7 +1,7 @@
 package kz.mun.example.lifecycle;
 
-import kz.mun.example.ch1.lifecycle.ResourceForAllTests;
-import kz.mun.example.ch1.lifecycle.SUT;
+import kz.mun.example.ch2.lifecycle.ResourceForAllTests;
+import kz.mun.example.ch2.lifecycle.SUT;
 import org.junit.jupiter.api.AfterAll;
 import org.junit.jupiter.api.BeforeAll;
 import org.junit.jupiter.api.BeforeEach;

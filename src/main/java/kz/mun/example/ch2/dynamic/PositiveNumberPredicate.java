@@ -1,4 +1,4 @@
-package kz.mun.example.ch1.dynamic;
+package kz.mun.example.ch2.dynamic;
 
 public class PositiveNumberPredicate {
     public boolean check(int number) {

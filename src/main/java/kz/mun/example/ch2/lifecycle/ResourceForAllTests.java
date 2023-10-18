@@ -1,4 +1,4 @@
-package kz.mun.example.ch1.lifecycle;
+package kz.mun.example.ch2.lifecycle;
 
 public class ResourceForAllTests {
     private String resourceName;

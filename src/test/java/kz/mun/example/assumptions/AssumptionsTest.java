@@ -1,10 +1,10 @@
 package kz.mun.example.assumptions;
 
-import kz.mun.example.ch1.assumptions.Job;
-import kz.mun.example.ch1.assumptions.SUT;
-import kz.mun.example.ch1.assumptions.environment.JavaSpecification;
-import kz.mun.example.ch1.assumptions.environment.OperationSystem;
-import kz.mun.example.ch1.assumptions.environment.TestsEnvironment;
+import kz.mun.example.ch2.assumptions.Job;
+import kz.mun.example.ch2.assumptions.SUT;
+import kz.mun.example.ch2.assumptions.environment.JavaSpecification;
+import kz.mun.example.ch2.assumptions.environment.OperationSystem;
+import kz.mun.example.ch2.assumptions.environment.TestsEnvironment;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 

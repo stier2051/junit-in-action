@@ -1,4 +1,4 @@
-package kz.mun.example.ch1.displayname;
+package kz.mun.example.ch2.displayname;
 
 public class SUT {
     public String hello() {
