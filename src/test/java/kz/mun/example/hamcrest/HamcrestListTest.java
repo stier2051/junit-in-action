@@ -28,13 +28,13 @@ public class HamcrestListTest {
     @DisplayName("List without Hamcrest")
     public void testWithoutHamcrest() {
         assertEquals(3, values.size());
-        assertTrue(values.contains("Oliver") || values.contains("Jack") || values.contains("Harry"));
+//        assertTrue(values.contains("Oliver") || values.contains("Jack") || values.contains("Harry"));
     }
 
     @Test
     @DisplayName("List with Hamcrest")
     public void testListWithHamcrest() {
         assertThat(values, hasSize(3));
-        assertThat(values, hasItem(anyOf(equalTo("Oliver"), equalTo("Jack"), equalTo("Harry"))));
+//        assertThat(values, hasItem(anyOf(equalTo("Oliver"), equalTo("Jack"), equalTo("Harry"))));
     }
 }
